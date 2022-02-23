@@ -12,7 +12,7 @@
 </p>
 
  ## Description
- _This application was made for school, just another text editor. JATE was made using Node.js and using an express server, it is also deployed on heroku!
+ _This application was made for school, just another text editor. JATE was made using Node.js and using an express server, it is also deployed on heroku!_
 
 ---
 
@@ -33,8 +33,9 @@
 ---
 
   ## Installation
+ 
+ This project is live on [heroku](https://intense-lowlands-93549.herokuapp.com/ "link to deployed app") and doesn't need to be installed!
 
-Page is deployed on heroku! https://intense-lowlands-93549.herokuapp.com
 
   ---
 
