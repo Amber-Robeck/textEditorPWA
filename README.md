@@ -8,11 +8,14 @@
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 </p>
 
  ## Description
  _This application was made for school, just another text editor. JATE was made using Node.js and using an express server, it is also deployed on heroku!_
+
+Page is deployed at [https://intense-lowlands-93549.herokuapp.com](https://intense-lowlands-93549.herokuapp.com/ "link to deployed app")
 
 ---
 
@@ -29,6 +32,7 @@
 
   ## Usage
 
+However you would like as this is 'just another text editor'
 
 ---
 
@@ -39,27 +43,16 @@
 
   ---
 
-
-![GIF of page](./assets/appStart.gif "GIF of page")
-
-
-  ---
-
   ## Screenshots
 
 Here are some screen shots of this application.
 
 
-<img src="./assets/allUsers.png" alt="screenshot of GET method" width="700"/>
+<img src="./client/assets/jate.png" alt="screenshot of JATE" width="700"/>
 
-<img src="./assets/createThought.png" alt="screenshot of POST method" width="700"/>
+<img src="./client/assets/jate1.png" alt="screenshot of JATE" width="700"/>
 
-<img src="./assets/socialAPI.png" alt="screenshot of MongoCompass" width="700"/>
-
-<img src="./assets/socialAPIusers.png" alt="screenshot of MongoCompass" width="700"/>
-
-<img src="./assets/socialAPIthoughts.png" alt="screenshot of MongoCompass" width="700"/>
-
+<img src="./client/assets/installed.png" alt="screenshot of JATE installed" width="700"/>
 
     
 
